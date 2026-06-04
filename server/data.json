@@ -1,0 +1,48 @@
+{
+  "version": "3",
+  "users": {
+    "649404873": {
+      "role_id": 3343025982,
+      "name": "august",
+      "password": {
+        "salt": "3b2ec0a7faa1ca2e85231647e2f847f0",
+        "hash": "7c064cfa90b4a697e3b019c55a9087036f9e27752b99efc81401ac70de0fe08d",
+        "iterations": 600000
+      },
+      "client_unique_id": "august"
+    }
+  },
+  "hosts": {
+    "3276071835": {
+      "owner": 649404873,
+      "address": "localhost",
+      "http_port": 47989,
+      "pair_info": {
+        "client_private_key": "-----BEGIN PRIVATE KEY-----\r\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDefXep22AwxepI\r\nEvgDuVmWsgw+VT02H1gqxv4VdQHeRBChYPQ/qgCkA0jCZzhQs/zjxx069YNnvzaZ\r\nFG6k6yhE/A72AA4dSx8Ae6lhYRNH1pYaxqKjn65ZzUqH8V+ocYsw1daQU5bhjzEO\r\nCBcvbxU/2ohwHjmQmejUbY/BBU390rna/f7N3r8EL6zXOEm4apzuXVhTz+Ji/zCD\r\nLe3dq2HZZCtwSVzIXSS4779DMvpCB1bRFdQKpyujg6s0RxCx63FlUElbqg2dql1L\r\nM4d8PGDjZ2hpCTkJLe/QAy9f1CRwqM/qGK30ma83AOWcRfvKzMzSRhBgLp17yWq3\r\nUOjKXfm1AgMBAAECggEAQW9AItYQr7d9hE4D4ECCbzYVML3r/z9vtEELGC9t6bs1\r\n8uhrXU/32UTYAMjPwLh2v1zfpWfwijIr8hCWy+0XTladZc81V3sw9njoI2oj/ARJ\r\n6D0UNzAu3F1qtpmQKx+dsrKpZJAY92SgJkLN4tb2Nm3ko6jYAEWrutIwLbIMMoJb\r\nQte8s7q/tqBo/lyOub7+Nz/RbT7zGKGPeNJb1R7lICmp8S43YkvMxVRhFEeXIXlJ\r\nu/NsGcrmTWSHjypMzBTxs7s8xm5v1ZaEZ0rJv/yYT6NXcC44XT1njNWf7eGfyQke\r\nYoAtSQC6UMC0Fo02TACxi8PtPKXnDdcOTehla/SNTwKBgQD43ET6Kd5Csrln+u3D\r\nguJNeuV36RPwTN+W43ssuYMzLyiC4jeA3bR7R6xnqCQYrYZTmcVu5rv5uxrediNN\r\nPVbIG7XW/K6dB6uWTAuFR32FjPtFbGBj2J3HLGAUnpNf7Nk/S5AL7+LEWpGMU0JC\r\nEuvF+oWrW1LUXhcWHoxNv4Rd7wKBgQDk34YYWexfABN9nCp5X/cDv4vDhzZENp2C\r\nmfTFA14psmJcNOTHnzPXSGgATWWvgA7F53SFWIcmB7CzkIMPlpXmPD/Pyv5btpc5\r\n1Wpqw2n9IUlbdfrfs+juMIIYgpvTTwYI3UvJATbvuqcHNq6C70VX73JWY1mbp+Rq\r\nCLe0YtKGmwKBgHXZAYUh7JHTRv+ZkZyjT313dFEbfAiwrrUqlnrwgtPrQhjw/W22\r\nD7DNmTQhKK7TBahzSk6hT2UMmMW+VitOn9j1XmAnmpzcNAJhkpcT6roisB8JGoBN\r\n5TGbrwg0q/+iDqLtqpIskEuBxCkaiGb3xNUlNMWX4pqU0AP2hWSQDCPbAoGAdUfx\r\nYCMcU+YnFrPitAWv/5S1GwH7leLivd0Ep7w9EWLesl9MaNq05vmsiZMfq1oUt+cO\r\nN5KQ1rUUID/KWT+SGsP+8w0TYI3lWnZ5LLJsapEXFS4U23NGxl/HGqY7EYIqFnrH\r\n7f2YWCoukyy7Kk9QGmqSDaCld3UGQCutb1tAhEcCgYEApftHAfBKqQdgEu+p3uAb\r\nCQRgwwu9NtxMwuKUvpYu/jEoeqMtfylG+d48/AO/LzmB6bay7tF3i7c5S4sAn/Zn\r\nFca/Q/UPdsvqW+c7IOAn/IBouoRF8wEYqTLwPxhGxNF1fgiS7ys8p3+Fl8STTM7X\r\nWPKrTXd9PPU+KLqKOoj0A+Q=\r\n-----END PRIVATE KEY-----\r\n",
+        "client_certificate": "-----BEGIN CERTIFICATE-----\r\nMIIDNzCCAh+gAwIBAgIBADANBgkqhkiG9w0BAQsFADBfMQswCQYDVQQGEwJVUzEL\r\nMAkGA1UECAwCQ0ExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xFTATBgNVBAoMDEV4\r\nYW1wbGUgQ29ycDEUMBIGA1UEAwwLZXhhbXBsZS5jb20wHhcNMjYwNjAzMDgzMzE2\r\nWhcNMjcwNjAzMDgzMzE2WjBfMQswCQYDVQQGEwJVUzELMAkGA1UECAwCQ0ExFjAU\r\nBgNVBAcMDVNhbiBGcmFuY2lzY28xFTATBgNVBAoMDEV4YW1wbGUgQ29ycDEUMBIG\r\nA1UEAwwLZXhhbXBsZS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB\r\nAQDefXep22AwxepIEvgDuVmWsgw+VT02H1gqxv4VdQHeRBChYPQ/qgCkA0jCZzhQ\r\ns/zjxx069YNnvzaZFG6k6yhE/A72AA4dSx8Ae6lhYRNH1pYaxqKjn65ZzUqH8V+o\r\ncYsw1daQU5bhjzEOCBcvbxU/2ohwHjmQmejUbY/BBU390rna/f7N3r8EL6zXOEm4\r\napzuXVhTz+Ji/zCDLe3dq2HZZCtwSVzIXSS4779DMvpCB1bRFdQKpyujg6s0RxCx\r\n63FlUElbqg2dql1LM4d8PGDjZ2hpCTkJLe/QAy9f1CRwqM/qGK30ma83AOWcRfvK\r\nzMzSRhBgLp17yWq3UOjKXfm1AgMBAAEwDQYJKoZIhvcNAQELBQADggEBAF8T3eQO\r\n7Vk+GtCh98ghlQCWs7Y9LO7tAzwgDuiW3mtbBpnIyx2D6rT2Jt30IsGX3pG0UqNO\r\nDziTF2EZmd5iNZcu1VzoU8oXSnYOlEoI5xi0q+JolXX2fl4ObfiuVuz1q8YDhs73\r\nxxw0i8nRjybmgP6gZjSYvwxDqD1PW80X2Vx1rhTD8PFKPEI7xomfvczQH+CVYFRE\r\niLxRrNWDNSks71OYkGrJ+ZDyjBmr388YokzVgzePH/Q12W51nh6u4VxUjKpi6rtc\r\ncOQx3/XAP2vqtep+CXvBkYbmQ+XZ225y717w7It38jy7G1rVS/qmIQm/blaYWIyn\r\nydWZZpVFAkeT51E=\r\n-----END CERTIFICATE-----\r\n",
+        "server_certificate": "-----BEGIN CERTIFICATE-----\r\nMIIC0jCCAbqgAwIBAgIUOR5ktl5H0dQ8lCMkvoJsRGjYJTIwDQYJKoZIhvcNAQEL\r\nBQAwIzEhMB8GA1UEAwwYU3Vuc2hpbmUgR2FtZXN0cmVhbSBIb3N0MB4XDTI1MDgy\r\nNDAwMTQzN1oXDTQ1MDgxOTAwMTQzN1owIzEhMB8GA1UEAwwYU3Vuc2hpbmUgR2Ft\r\nZXN0cmVhbSBIb3N0MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqR3t\r\n1xOejMnpukRF2fUNqa6CqiBrErKth9mu6SJJgdJFUhDD6BoM3xQZYlGfyLc9xgRg\r\nOhukM1/jh1hFG3nuCB25qArRh/O2yZ3106k1t5KW41GpN0YXH2VfKdoo0kehz+bs\r\nyLp9ixDf+BM8Zs5gbzAdLTKkDT9+ySr2NSDg4F3zQnXB1UC0Oe8z6QCerTsj0Bfh\r\nXjy2RU6fkxJs8F8dVZ6fYDL4r4GJODMjdmXzOKlPzVX9ARagr87qNikN34Q0DQd6\r\nHH2NshJKIRmwm4c+2lu31gFtHJp3m+Svmkq9KdvFPkagGD6Derv3KfPSup+1Fxhr\r\nuG6sAM9UUf+txKS/FQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQB3IwXGmMiUVba7\r\nsCYGz/rG85O74IsUY6Y/uYQq5LmslbcYK68UBIu8mKNcEsWExHqLFKGw6aqiIAwg\r\npsrU1eZM0JbnFr2nUUDprw1zrNfqPa/wJ852M0Jk7Np7+uB7ye+/war3I7+DjSsu\r\nnSYd1+mGZPJii/756wHpvEv6u3vbuZt/0tF0alg3zTb3DdowtkTY2Qvr8pUw/J7F\r\n0UqOUtG2tFraH3IUyTjV9PWRG0e0VEcogDS7iYRo9eeorMDHAoHtoSD09shJLgSY\r\nT0/3/8P+uNqmKFytuVGT6GnGMyy7xabM6rCcrgCsZvgZsxO7f1eR5nhcUbOAlDa/\r\nLgSmoFRQ\r\n-----END CERTIFICATE-----\r\n"
+      },
+      "cache": {
+        "name": "ZAUD6230M4V",
+        "mac": null
+      }
+    }
+  },
+  "roles": {
+    "3343025982": {
+      "name": "Admin",
+      "ty": "Admin",
+      "default_settings": null,
+      "permissions": {
+        "allow_add_hosts": true,
+        "maximum_bitrate_kbps": null,
+        "allow_codec_h264": true,
+        "allow_codec_h265": true,
+        "allow_codec_av1": true,
+        "allow_hdr": true,
+        "allow_transport_webrtc": true,
+        "allow_transport_websockets": true
+      }
+    }
+  }
+}
