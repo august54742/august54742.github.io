@@ -1,4 +1,4 @@
 function FindProxyForURL(url, host) {
-    // Force all traffic to route through your secure HTTPS Stunnel proxy
-    return "HTTPS services.homelab-ap.xyz:443";
+    // Try Port 443 first. If it fails or deadlocks, instantly fall back to 8443.
+    return "HTTPS services.homelab-ap.xyz:443; HTTPS services.homelab-ap.xyz:8443";
 }
