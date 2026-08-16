@@ -1,4 +1,4 @@
 function FindProxyForURL(url, host) {
-    // Standard secure web server proxy routing
+    // Route traffic securely through Apache on port 443
     return "HTTPS services.homelab-ap.xyz:443";
 }
